@@ -3,7 +3,7 @@ pragma solidity ^0.8.13;
 
 import "ds-test/test.sol";
 
-contract ContractTest is DSTest {
+contract Lending is DSTest {
     function setUp() public {}
 
     function testExample() public {
